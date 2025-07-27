@@ -7,6 +7,10 @@ main {
   padding: 2rem;
 
 }
+.container {
+  max-width: 960px; /* or whatever matches your main */
+  margin: 0 auto;
+}
 
 body {
   font-family: 'Segoe UI', sans-serif;
